@@ -2,6 +2,8 @@
 
 Author: Bennett Gould
 
+Author GitHub username: @bpgould
+
 Date: 12-22-21
 
 Keywords: Blog, Template, Example
