@@ -1,4 +1,4 @@
-- Getting-Started-With-X
-  - Getting Started with Docker for Node Development
-- Core-Deployment-Tutorials-Easy
-  - Deploying Your First Node Backend with Docker and AWS Lambda
+- [Getting-Started-With-X](Getting-Started-With-X)
+  - [Getting Started with Docker for Node Development](Getting-Started-With-X/Getting-Started-With-Docker-For-Node-Development/getting-started-with-docker-for-node-development.md)
+- [Core-Deployment-Tutorials-Medium](Core-Deployment-Tutorials-Medium)
+  - [Deploying Your First Node Backend with Docker and AWS Lambda](Core-Deployment-Tutorials-Medium/Deploying-Your-First-Node-Backend-With-Docker-And-Aws-Lamda/deploying-your-first-node-backend-with-docker-and-aws-lambda.md)
