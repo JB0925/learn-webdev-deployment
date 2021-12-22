@@ -1,12 +1,12 @@
-# Blog Template
+# Article Template
 
-Author: Bennett Gould
+Author:
 
-Author GitHub username: @bpgould
+Author GitHub username: @
 
-Date: 12-22-21
+Date:
 
-Keywords: Blog, Template, Example
+Keywords:
 
 ## Table Of Contents
 
