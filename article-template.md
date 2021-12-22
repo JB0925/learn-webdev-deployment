@@ -4,7 +4,7 @@ Author:
 
 Author GitHub username: @
 
-Author LinkedIn <img src="./assets/LI-In-Bug.png" width="20" height="17"/>:
+Author <img src="./assets/LI-In-Bug.png" width="20" height="17"/> LinkedIn:
 
 Date:
 
