@@ -36,4 +36,8 @@ Resources:
 
 ## Peer Review Your Article
 
-1. Reach out to a community member on Slack in the peer-review channel
+- Open a new [GitHub Discussion](https://github.com/bpgould/learn-webdev-deployment/discussions) asking for help reviewing
+
+OR
+
+- Reach out to a community member on Slack in the peer-review channel
