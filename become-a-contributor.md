@@ -11,7 +11,9 @@
 
 ## Request Access
 
-Send me a direct message on [LinkedIn](https://www.linkedin.com/in/bennettgould12345/) about how you would like to contribute and I will add you as a contributor.
+If you would like to become a part of the admin team, send me a direct message on [LinkedIn](https://www.linkedin.com/in/bennettgould12345/) regarding how you would like to contribute and I will add you as a collaborator.
+
+If you would like to contribute, fork the repo, make your changes, and submit a pull request.
 
 ---
 
