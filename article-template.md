@@ -4,7 +4,7 @@ Author: Bennett Gould
 
 Date: 12-22-21
 
-Three Keywords: Blog, Template, Example
+Keywords: Blog, Template, Example
 
 ## Table Of Contents
 
