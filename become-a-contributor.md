@@ -29,7 +29,7 @@ If you would like to contribute, fork the repo, <code>read the docs below</code>
 Resources:
 
 1. [Getting Started With Markdown](https://www.markdownguide.org/getting-started/)
-2. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+2. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 3. [Markdown Dynamic Preview In VS Code](https://code.visualstudio.com/docs/languages/markdown)
 
 ---
