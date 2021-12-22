@@ -20,7 +20,7 @@ If you would like to contribute, fork the repo, <code>read the docs below</code>
 ## Create Your Article
 
 1. Read the style guide
-2. Take a look at the [blog template](article-template.md)
+2. Take a look at the [article template](article-template.md)
 
 - <code>All articles must follow this template, blank sections are okay if they are not applicable</code>
 
