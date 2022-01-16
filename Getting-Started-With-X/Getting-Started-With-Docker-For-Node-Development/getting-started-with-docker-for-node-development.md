@@ -78,6 +78,7 @@ Keywords: Docker, Node.js, Deployment, beginner, tutorial
 
     <img src="./assets/sample_dockerfile.png" width="200" height="150"/>
 
+
     ### Using Docker Build and Docker Run Commands
 
     If you've made it this far, you are ready to build and run your first container! Let's start with `docker build`. When you run `docker build`, you are building a Docker image from a Dockerfile.
@@ -91,6 +92,7 @@ Keywords: Docker, Node.js, Deployment, beginner, tutorial
     3000 is the port that we will visit on our machine, and 5000 is the port we are opening inside of the container.
 
     Congratulations, you've created your first Docker image and run your first container! Open up a web browser and go to localhost:3000. You should see your "Hello!" text appear in browser.
+
 
     ### Stopping the container
 
